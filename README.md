@@ -11,35 +11,3 @@ Here we propose an innovative and novel **“Few-Shot Learning”** framework ba
 
 ### Algorithm
 ![Figure2](https://user-images.githubusercontent.com/50590345/98753209-d07cc500-2391-11eb-9d71-fa752f798721.png)
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-![1](https://user-images.githubusercontent.com/50590345/98749392-94456680-2389-11eb-8f71-fbdd01e6d363.jpg)
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EllaRahimian/Test-one/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
