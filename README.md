@@ -16,3 +16,4 @@ Here we propose an innovative and novel **“Few-Shot Learning”** framework ba
 ![Figure2](https://user-images.githubusercontent.com/50590345/98753209-d07cc500-2391-11eb-9d71-fa752f798721.png)
 
 ### Architecture
+![Figure4](https://user-images.githubusercontent.com/50590345/98832923-6dc80f80-240b-11eb-9841-8a1f4463c801.png)
