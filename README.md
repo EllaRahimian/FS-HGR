@@ -1,6 +1,7 @@
 ## Elahe Rahimian, Soheil Zabihi, Amir Asif, Dario Farina, Seyed Farokh Atashzar, and Arash Mohammadi
 
-![Figure](https://user-images.githubusercontent.com/50590345/98750485-16cf2580-238c-11eb-9c50-e73ef256d31d.jpg)
+![Figure1](https://user-images.githubusercontent.com/50590345/98750785-cf956480-238c-11eb-8449-6b83eabbb26e.jpg)
+
 >This work is motivated by the recent advances in Deep Neural Networks (DNNs) and their widespread applications in human-machine interfaces. DNNs have been recently used for detecting the intended hand gesture through processing of surface electromyogram (sEMG) signals. The ultimate goal of these approaches is to realize high-performance controllers for prosthetic. However, although DNNs have shown superior accuracy than conventional methods when large amounts of data are
 available for training, their performance substantially decreases when data are limited. Collecting large datasets for training maybe feasible in research laboratories, but it is not a practical approach for real-life applications.
 
