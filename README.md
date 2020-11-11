@@ -1,4 +1,4 @@
-## Elahe Rahimian, Soheil Zabihi, Amir Asif, Dario Farina, Seyed Farokh Atashzar, and Arash Mohammadi
+### Elahe Rahimian, Soheil Zabihi, Amir Asif, Dario Farina, Seyed Farokh Atashzar, and Arash Mohammadi
 
 ![Figure1](https://user-images.githubusercontent.com/50590345/98752650-9828b700-2390-11eb-8c0d-befbc4c931fb.png)
 
