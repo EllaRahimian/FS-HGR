@@ -4,9 +4,11 @@ Elahe Rahimian, Soheil Zabihi, Amir Asif, Dario Farina, Seyed Farokh Atashzar, a
 
 Paper:
 
+Website: https://ellarahimian.github.io/FS-HGR/
+
 ![Figure1](https://user-images.githubusercontent.com/50590345/98840402-c2bc5380-2414-11eb-9f52-fdce42fbe013.jpg)
 
-Website: https://ellarahimian.github.io/FS-HGR/
+
 
 ## Citation
 If you find our work relevant to your research, please cite:
