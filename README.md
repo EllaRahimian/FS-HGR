@@ -1,7 +1,6 @@
 ## Elahe Rahimian, Soheil Zabihi, Amir Asif, Dario Farina, Seyed Farokh Atashzar, and Arash Mohammadi
 
-$\mathrm{5}$-way $\mathrm{1}$-shot classification. Each task $\mathcal{T}$, represented in a purple box, is associated with a training set $\mathcal{D}^{train}$ and a prediction set $\mathcal{D}^{test}$. Here, for constructing $\mathcal{D}^{train}$, first, $\mathrm{5}$ classes are sampled from the $\mathscr{D}_{meta-train}$, and then one example from each of these 5 classes (each corresponding with a label $1$-$5$) are sampled. $\mathcal{D}^{test}$ consists of $1$ example sampled from one of those $\mathrm{5}$ classes. The $\mathscr{D}_{meta-test}$ is represented in the same approach, covering a different set of datasets which do not include any classes presented in any of the datasets in $\mathscr{D}_{meta-train}$. Moreover, $\mathscr{D}_{meta-val}$ is defined in the same way to determine the hyper-parameters of the model
-![Figure1](https://user-images.githubusercontent.com/50590345/98750785-cf956480-238c-11eb-8449-6b83eabbb26e.jpg)
+![Figure1](https://user-images.githubusercontent.com/50590345/98752650-9828b700-2390-11eb-8c0d-befbc4c931fb.png)
 
 >This work is motivated by the recent advances in Deep Neural Networks (DNNs) and their widespread applications in human-machine interfaces. 
 DNNs have been recently used for detecting the intended hand gesture through processing of surface electromyogram (sEMG) signals. 
