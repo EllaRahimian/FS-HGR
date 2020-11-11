@@ -9,7 +9,7 @@ The ultimate goal of these approaches is to realize high-performance controllers
 >Therefore, there is an unmet need for the design of a modern gesture detection technique that relies on minimal training data while providing high accuracy.
 Here we propose an innovative and novel **“Few-Shot Learning”** framework based on the formulation of meta-learning, referred to as the **FS-HGR**, to address this need. Few-shot learning is a variant of domain adaptation with the goal of inferring the required output based on just one or a few training examples. More specifically, the proposed FS-HGR quickly generalizes after seeing very few examples from each class.
 
-### 5way 1-shot classification
+### 5-way 1-shot classification
 ![Figure1](https://user-images.githubusercontent.com/50590345/98752650-9828b700-2390-11eb-8c0d-befbc4c931fb.png)
 
 ### Algorithm
