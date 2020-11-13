@@ -2,7 +2,7 @@
 
 Elahe Rahimian, Soheil Zabihi, Amir Asif, Dario Farina, Seyed Farokh Atashzar, and Arash Mohammadi
 
-Paper:
+Paper: https://arxiv.org/abs/2011.06104
 
 Website: https://ellarahimian.github.io/FS-HGR/
 
