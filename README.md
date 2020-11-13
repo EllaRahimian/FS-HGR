@@ -12,3 +12,11 @@ Website: https://ellarahimian.github.io/FS-HGR/
 
 ## Citation
 If you find our work relevant to your research, please cite:
+```
+@article{
+    title={FS-HGR: Few-shot Learning for Hand Gesture Recognition via ElectroMyography},
+    author={Elahe Rahimian, Soheil Zabihi, Amir Asif, Dario Farina, Seyed Farokh Atashzar, Arash Mohammadi},
+    year={2020},
+    journal={https://arxiv.org/abs/2011.06104}
+}
+```
